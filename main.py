@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # ১. আপনার Bot Token এবং Admin Telegram ID দিন
-API_TOKEN = 'YOUR_8660582903:AAELmYdRuEXwjzOtJzxPanF-iIySm-buSw0_TOKEN_HERE'  # @BotFather থেকে পাওয়া টোকেন দিন
+API_TOKEN = '8660582903:AAELmYdRuEXwjzOtJzxPanF-iIySm-buSw0'  # @BotFather থেকে পাওয়া টোকেন দিন
 ADMIN_ID = 1919042009  # আপনার টেলিগ্রাম আইডি (আপনার ID জানতে @userinfobot এ মেসেজ দিন)
 
 bot = telebot.TeleBot(API_TOKEN)
